@@ -1,0 +1,2 @@
+# gitting
+learning about git
